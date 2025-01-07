@@ -5,5 +5,4 @@
 - 🤔 I’m looking for help with developing log-in function along with OAuth. I am super exicited to be an expert on identification. 
 - 📫 How to reach me: cmsg_hbg2@naver.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I enjoy coding which will hopefully reward me financially also.
 
